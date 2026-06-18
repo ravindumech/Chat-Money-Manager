@@ -4,7 +4,7 @@ Effective date: 17 june 2026
 
 This Privacy Policy explains how Chat Money Manager collects, uses, stores, shares, and protects user data. By using the app, you agree to the practices described in this Privacy Policy.
 
-##  Account deletion requests and provacy questions
+##  Account deletion requests and privacy questions
 
 For privacy questions, account deletion requests, or data-related concerns, contact:
 
